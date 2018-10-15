@@ -1,0 +1,38 @@
+[==========] Running 28 tests from 5 test cases.
+[----------] Global test environment set-up.
+[----------] 3 tests from TestBasicConstructorANDaccessorFunctions
+[ RUN      ] TestBasicConstructorANDaccessorFunctions.DefaultConstructor
+[       OK ] TestBasicConstructorANDaccessorFunctions.DefaultConstructor (0 ms)
+[ RUN      ] TestBasicConstructorANDaccessorFunctions.Capacity_2
+[       OK ] TestBasicConstructorANDaccessorFunctions.Capacity_2 (0 ms)
+[ RUN      ] TestBasicConstructorANDaccessorFunctions.Capacity_20
+[       OK ] TestBasicConstructorANDaccessorFunctions.Capacity_20 (0 ms)
+[----------] 3 tests from TestBasicConstructorANDaccessorFunctions (0 ms total)
+
+[----------] 8 tests from TestFrontPushPop
+[ RUN      ] TestFrontPushPop.pushOneItemCheckFront
+starting ensure_capacity
+[       OK ] TestFrontPushPop.pushOneItemCheckFront (0 ms)
+[ RUN      ] TestFrontPushPop.pushTwoItemsCheckFront
+starting ensure_capacity
+starting ensure_capacity
+[       OK ] TestFrontPushPop.pushTwoItemsCheckFront (0 ms)
+[ RUN      ] TestFrontPushPop.pushTwoPopOneCheckFront
+starting ensure_capacity
+starting ensure_capacity
+[       OK ] TestFrontPushPop.pushTwoPopOneCheckFront (0 ms)
+[ RUN      ] TestFrontPushPop.pushTwoPopTwoCheckEmpty
+starting ensure_capacity
+starting ensure_capacity
+[       OK ] TestFrontPushPop.pushTwoPopTwoCheckEmpty (0 ms)
+[ RUN      ] TestFrontPushPop.pushTwoPopOnePushTwoPopOnePushThree
+starting ensure_capacity
+starting ensure_capacity
+starting ensure_capacity
+starting ensure_capacity
+starting ensure_capacity
+starting ensure_capacity
+ensure_capacity, before loop
+copying temp[0]=skye to data[0]=
+copying temp[1]=ruthie to data[1]=
+copying temp[2]=ame to data[2]=
